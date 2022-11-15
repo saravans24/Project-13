@@ -12,4 +12,4 @@ Here's the Live Deployed Website ![Project 13](https://img.shields.io/badge/Proj
 - I learned to align elements properly
 - I learned to use Media Query
 
-## This project took around 8 hours to complete.
+## This project took around 4 hours to complete.
